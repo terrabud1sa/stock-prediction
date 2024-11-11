@@ -6,8 +6,8 @@
 
 ![preview](/assets/woodswaber.webp)
 
-<p align="center"> [DOWNLOAD](../../releases)
-<br>
+ <p align="center"> [DOWNLOAD](../../releases)
+ 
 <hr style="border-radius: 2%; margin-top: 45px; margin-bottom: 50px;" noshade="" size="20" width="98%">
 </p>
 
